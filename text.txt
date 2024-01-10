@@ -1,0 +1,14 @@
+Hex Codes:
+White --> #f0f5f4
+Dark-Blue --> #0c162a
+Light-Blue --> #0f1e35
+Orange --> #ff1e26
+
+
+Text:
+About me: I used to design stuff, now I code 
+for the web. Always learning new things 🚀. 
+PS: I can center a div! 😄
+
+Copyright: Copyright © 2024, AhmadFaisal
+All Rights Reserved
